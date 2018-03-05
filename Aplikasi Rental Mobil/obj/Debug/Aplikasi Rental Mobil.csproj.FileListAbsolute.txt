@@ -1,0 +1,3 @@
+D:\UBM\Visual Studio\PROJECT_UAS\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
+D:\UBM\Visual Studio\PROJECT_UAS\ProjectUAS\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
+D:\UBM\Visual Studio\PROJECT_UAS\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
