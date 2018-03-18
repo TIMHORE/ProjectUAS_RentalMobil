@@ -2,3 +2,12 @@ D:\UBM\Visual Studio\PROJECT_UAS\Aplikasi Rental Mobil\Aplikasi Rental Mobil\bin
 D:\UBM\Visual Studio\PROJECT_UAS\ProjectUAS\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
 D:\UBM\Visual Studio\PROJECT_UAS\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
 C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe.config
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.exe
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\bin\Debug\Aplikasi Rental Mobil.pdb
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.AdminLogin.resources
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Form1.resources
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi_Rental_Mobil.Properties.Resources.resources
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.csproj.GenerateResource.Cache
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.exe
+C:\Users\user\Source\Repos\ProjectUAS_RentalMobil\Aplikasi Rental Mobil\obj\Debug\Aplikasi Rental Mobil.pdb
